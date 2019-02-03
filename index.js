@@ -1,9 +1,13 @@
+
+let name1 = "you";
+
 function happyHolidays() {
   return "Happy holidays!" 
 }
 
-function happyHolidaysTo (name){
-  return "`Happy holidays, ${name}!`"
+function happyHolidaysTo (name1){
+  return "`Happy holidays, ${name1}`"
+
 }
 
 function happyHolidaysTo(holidays, name){
